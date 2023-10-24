@@ -1,11 +1,11 @@
-body {
+#elsooldal{
     background-color: #2f4f4f;
 }
 h1{
     text-align: center;
     color:white;
 }
-table, th, td {
+#nappali {
 background-image:url(./img/hatter.jpg) ;
 }
 
@@ -17,4 +17,13 @@ table{
 th, td {
     margin: 5px;
     border-spacing: 5px;
+}
+
+p{
+    font-size: large;
+}
+
+#ejjeli{
+    color: #FFFFFF;
+    background-color: #2f4f4f;
 }
