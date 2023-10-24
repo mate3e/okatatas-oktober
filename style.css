@@ -5,10 +5,6 @@ h1{
     text-align: center;
     color:white;
 }
-#nappali{
-    
-}
-
 table, th, td {
 background-image:url(./img/hatter.jpg) ;
 margin: 5px;
@@ -16,4 +12,5 @@ margin: 5px;
 
 table{
     width: 640px;
+    float: center;
 }
