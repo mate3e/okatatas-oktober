@@ -10,6 +10,7 @@ background-image:url(./img/hatter.jpg) ;
 }
 
 table{
+    margin: 0 auto;
     width: 640px;
     float: center;
 }
