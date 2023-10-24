@@ -1,5 +1,6 @@
 #elsooldal{
     background-color: #2f4f4f;
+    
 }
 h1{
     text-align: center;
@@ -37,4 +38,10 @@ p{
 }
 #link{
     color: white;
+}
+#keklepke{
+   border: 1px solid;
+}
+#feherlepke{
+    border: 1px solid;
 }
